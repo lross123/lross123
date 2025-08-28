@@ -13,7 +13,7 @@ I'm a mathematics and biomedical engineering graduate with a passion for data sc
 ## Work Experiance
 - Research Placement @ Queensland University of Technology, Feb 2025 - Jun 2025  
 - Mathematics Tutor @ Self-employed, Nov 2019 - Feb 2025  
-- Administrator @ University of Surrey, Oct 2024 – Jan 202  
+- Administrator @ University of Surrey, Oct 2024 – Jan 2025  
 
 
 
