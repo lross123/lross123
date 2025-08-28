@@ -4,7 +4,7 @@
 📍 Sandhurst, Berkshire, United Kingdom  
 📧 *Email:* [luke.ross200121@gmail.com](mailto:luke.ross200121@gmail.com)  
 🔗 *LinkedIn:* [https://www.linkedin.com/in/lukeross18](https://www.linkedin.com/in/lukeross18)  
-🗂️ *Portfolio:* [github.com/lross123](https://github.com/lross123) <br>
+🗂️ *Portfolio:* [[github.com/lross123](https://lross123.github.io/Portfolio/)]([https://github.com/lross123](https://lross123.github.io/Portfolio/)) <br>
 👨‍💻 *GitHub:* [github.com/lross123](https://github.com/lross123)
 
 
