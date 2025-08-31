@@ -1,19 +1,5 @@
 # 👋 Hello, I'm Luke!
 
-## Data Scientist focusing on applied AI
-📍 Sandhurst, Berkshire, United Kingdom  
-📧 *Email:* [luke.ross200121@gmail.com](mailto:luke.ross200121@gmail.com)  
-🔗 *LinkedIn:* [https://www.linkedin.com/in/lukeross18](https://www.linkedin.com/in/lukeross18)  
-🗂️ *Portfolio:* [github.com/lross123/Portfolio/](https://lross123.github.io/Portfolio/) <br>
-
-
-### About Me
-I'm a mathematics and biomedical engineering graduate with a passion for data science and AI. I aim to tackle real-world problems with data-driven approaches transforming data and language into impactful solutions.
-## Work Experiance
-- Research Placement @ Queensland University of Technology, Feb 2025 - Jun 2025  
-- Mathematics Tutor @ Self-employed, Nov 2019 - Feb 2025  
-- Administrator @ University of Surrey, Oct 2024 – Jan 2025  
-
 
 
 
@@ -71,6 +57,11 @@ I'm a mathematics and biomedical engineering graduate with a passion for data sc
 
 
 
+## Work Experiance
+- Research Placement @ Queensland University of Technology, Feb 2025 - Jun 2025  
+- Mathematics Tutor @ Self-employed, Nov 2019 - Feb 2025  
+- Administrator @ University of Surrey, Oct 2024 – Jan 2025  
+
 
 
 
@@ -109,6 +100,26 @@ I'm a mathematics and biomedical engineering graduate with a passion for data sc
 - IBM AI Developer – Coursera  
 - IBM RAG and Agentic AI – Coursera
 - Machine Learning for Trading - Google Cloud | New York Institute of Finance
+
+
+## Contact Me
+
+<p align="left">
+  <!-- Email -->
+  <a href="mailto:luke.ross20812@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/lukeross18/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  
+  <!-- Portfolio -->
+  <a href="https://lross123.github.io/Portfolio/">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="40" height="40"/>
+  </a>
+</p>
 
 
 
