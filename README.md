@@ -6,7 +6,7 @@
 ## Technical Toolbox 🛠️
 
 
-### Programming Language 
+### Programming Languages 
 
 <p align="left"> 
   <!-- Programming Languages -->
@@ -18,7 +18,7 @@
 </p>
 
 
-### ML / AI Frameworks
+### Machine Learning Frameworks
 
 <p align="left"> 
   <!-- ML / AI Frameworks -->
