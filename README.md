@@ -80,28 +80,6 @@
 
 
 
-
-
-
-
-## Certifications 📜
-- IBM Data Science – Coursera  
-- Meta Data Analyst – Coursera  
-- Advanced Statistics for Data Science – The Johns Hopkins University  
-- Advanced Network Security – LearnQuest  
-- Generative AI for Healthcare Students and Professionals – University of Glasgow  
-- Google Cybersecurity – Coursera  
-- IBM Generative AI for Cybersecurity Professionals – Coursera  
-- Mathematics for Machine Learning – Imperial College London  
-- Google UX Design – Coursera  
-- IBM Deep Learning with PyTorch, Keras and TensorFlow – Coursera  
-- Advanced Machine Learning on Google Cloud – Coursera  
-- IBM Business Intelligence (BI) Analyst – Coursera  
-- IBM AI Developer – Coursera  
-- IBM RAG and Agentic AI – Coursera
-- Machine Learning for Trading - Google Cloud | New York Institute of Finance
-
-
 ## Contact Me
 
 <p align="left">
