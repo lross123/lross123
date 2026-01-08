@@ -1,65 +1,27 @@
-# 👋 Hello, I'm Luke!
+# 👋 Hello, I'm Luke! 
 
-
-
-
-## Technical Toolbox 🛠️
-
-
-### Programming Languages 
 
 <p align="left"> 
-  <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" alt="Julia" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
-</p>
-
-
-### Machine Learning Frameworks
-
-<p align="left"> 
-  <!-- ML / AI Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-</p>
-
-### Databases
-
-<p align="left"> 
-  <!-- Data / Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL/MySQL" width="40" height="40"/>
-</p>
-
-
-
-### Cloud Platforms
-
-<p align="left"> 
-  <!-- Cloud Platforms -->
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
 </p>
 
 
-### Tools
-
-<p align="left"> 
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-</p>
-
-
 
 
 ## Work Experiance
-- Research Placement @ Queensland University of Technology, Feb 2025 - Jun 2025  
-- Mathematics Tutor @ Self-employed, Nov 2019 - Feb 2025  
+- AI Implementation @ JWA CNC Precision, Dec 2025 - Present
+- Quantitative Researcher @ Queensland University of Technology, Feb 2025 - Jun 2025  
+- Founder @ Luke Ross Mathematics Tutoring, Nov 2019 - Feb 2025  
 - Administrator @ University of Surrey, Oct 2024 – Jan 2025  
 
 
@@ -72,11 +34,13 @@
 ## Education 🎓
 
 
-### MSc Biomedical Engineering, The University of Warwick, 2024
+### MSc Biomedical Engineering @ The University of Warwick, Oct 2023 - Jan 2025
+Biomedical Systems Modelling 68% | Research in Biomedical & Clinical Engineering 76% | Tissue Engineering & Regenerative Medicine 73% | Pharmacokinetic-Pharmacodynamic Modelling Dissertation 73% 
+
 
  
- ### BSc Mathematics with Economics, Loughbrough University, 2023
-
+ ### BSc Mathematics with Economics @ Loughbrough University, Oct 2020 - Jul 2023
+Probability Theory 79% | Stochastic Methods in Finance 84% | Computational Methods in Finance 79% | Mechanics 81% | Linear Algebra 80% | Applied Statistics 75% | Mathematical Methods 90% 
 
 
 
