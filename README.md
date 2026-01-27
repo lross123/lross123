@@ -20,8 +20,9 @@
 
 
 
+<h1 align="center">💼 Work Experiance</h1>
 
-## Work Experiance
+
 - AI Implementation @ JWA CNC Precision, Dec 2025 - Present
 - Quantitative Researcher @ Queensland University of Technology, Feb 2025 - Jun 2025  
 - Founder @ Luke Ross Mathematics Tutoring, Nov 2019 - Feb 2025  
