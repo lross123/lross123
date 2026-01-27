@@ -1,5 +1,4 @@
-# 👋 Hello, I'm Luke! 
-
+<h1 align="center">👋 Hello, I'm Luke!</h1>
 
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
