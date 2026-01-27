@@ -31,10 +31,10 @@
 
 
 
+<h1 align="center">🎓 Education</h1>
 
 
 
-## Education 🎓
 
 
 ### MSc Biomedical Engineering @ The University of Warwick, Oct 2023 - Jan 2025
@@ -47,9 +47,10 @@ Probability Theory 79% | Stochastic Methods in Finance 84% | Computational Metho
 
 
 
-## Contact Me
+<h1 align="center">📱 Contact Me</h1>
 
-<p align="left">
+
+<p align="centre">
   <!-- Email -->
   <a href="mailto:luke.ross200121@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
