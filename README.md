@@ -23,8 +23,8 @@
 <h1 align="center">💼 Work Experiance</h1>
 
 
-- AI Implementation @ [JWA CNC Precision](https://jwacnc.co.uk), Dec 2025 - Present
--  Quantitative Researcher @ [Queensland University of Technology](https://www.qut.edu.au/research), Feb 2025 - Jun 2025  
+- Associate Data Scientist @ [JWA CNC Precision](https://jwacnc.co.uk), Dec 2025 - Present
+- Quantitative Researcher @ [Queensland University of Technology](https://www.qut.edu.au/research), Feb 2025 - Jun 2025  
 - Founder @ Luke Ross Mathematics Tutoring, Nov 2019 - Feb 2025  
 - Administrator @ [University of Surrey](https://my.surrey.ac.uk), Oct 2024 – Jan 2025  
 
