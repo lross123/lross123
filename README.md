@@ -52,9 +52,9 @@ Probability Theory 79% | Stochastic Methods in Finance 84% | Computational Metho
 
 
 <p align="center">
-  <a href="mailto:luke.ross200121@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=luke.ross200121@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+</a>
   &nbsp; &nbsp; <a href="https://www.linkedin.com/in/lukeross18/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
     <a href="https://lukemorganross.com">
