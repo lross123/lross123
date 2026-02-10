@@ -61,7 +61,7 @@ Probability Theory 79% | Stochastic Methods in Finance 84% | Computational Metho
   <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" width="40" height="40"/>
 </a>
     <a href="https://huggingface.co/lross123">
-  <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=flat-square&logo=huggingface&logoColor=black" width="40" height="40"/>
 </a>
   </a>
 </p>
