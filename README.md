@@ -57,6 +57,12 @@ Probability Theory 79% | Stochastic Methods in Finance 84% | Computational Metho
   </a>
   &nbsp; &nbsp; <a href="https://www.linkedin.com/in/lukeross18/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <a href="https://lukemorganross.com">
+  <img src="https://img.icons8.com/ios-filled/50/000000/internet.png" width="40" height="40"/>
+</a>
+    <a href="https://huggingface.co/lross123">
+  <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+</a>
   </a>
 </p>
 
