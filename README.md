@@ -32,8 +32,8 @@
 <h1 align="center">💼 Work Experiance</h1>
 
 
-- Associate Data Scientist @ [JWA CNC Precision](https://jwacnc.co.uk), Dec 2025 - Present
-- Quantitative Researcher @ [Queensland University of Technology](https://www.qut.edu.au/research), Feb 2025 - Jun 2025  
+- Associate Data Scientist @ JWA CNC Precision, Dec 2025 - Present
+- Quantitative Researcher @ Queensland University of Technology, Feb 2025 - Jun 2025  
 
 
 
